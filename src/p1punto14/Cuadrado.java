@@ -13,7 +13,7 @@ public class Cuadrado {
         lado= lector.nextDouble();
         area = lado*lado;
         System.out.println("El area del cuadrado es: "+area);
-        //oe!!!
+        
     }
     
 }
