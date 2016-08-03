@@ -3,7 +3,6 @@ package p1punto14;
 
 import java.util.Scanner;
 
-
 public class Cuadrado {
     double lado,area;
     Scanner lector;
